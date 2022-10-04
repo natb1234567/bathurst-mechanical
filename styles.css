@@ -157,7 +157,7 @@ color: var(--unnamed-color-bbbbbb);
     font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 40px/var(--unnamed-line-spacing-32) var(--unnamed-font-family-barlow);
     letter-spacing: var(--unnamed-character-spacing-0);
     text-align: center;
-    font: normal normal bold 40px/32px Barlow;
+    font: normal normal normal 15px Heebo;
     letter-spacing: 0px;
     color: #011B3D;
     opacity: 1;
