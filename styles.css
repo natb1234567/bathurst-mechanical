@@ -106,6 +106,7 @@ color: var(--unnamed-color-bbbbbb);
 
 body {
     background: #F2F7FF;
+    margin:0px;
 }
 
 
@@ -115,14 +116,14 @@ body {
     top: 0px;
     left: 0px;
     width: 100%;
-    height: 50%;
+    height: 75%;
     opacity: 1;
     position:relative;
 }
 
 .header-text {
     left: 40px;
-    width: 50%;
+    width: 40%;
     font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-93)/97px var(--unnamed-font-family-barlow);
     letter-spacing: var(--unnamed-character-spacing-0);
     text-align: left;
@@ -131,23 +132,25 @@ body {
     color: #F9F9F9;
     opacity: 1;
     position: absolute;
-    bottom: 25px;
+    bottom: 35px;
     left: 0;
+    padding-left: 10px;
 }
 
 .subheader-text {
     left: 41px;
-    width: 50%;
+    width: 40%;
     font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-medium) var(--unnamed-font-size-25)/var(--unnamed-line-spacing-35) var(--unnamed-font-family-heebo);
     letter-spacing: var(--unnamed-character-spacing-0);
     text-align: left;
-    font: normal normal normal 15px Heebo;
+    font: normal normal bold 13px Heebo;
     letter-spacing: 0px;
     color: #F9F9F9;
     opacity: 1;
     position: absolute;
-    bottom: 5;
+    bottom: 10;
     left: 0;
+    padding-left: 10px;
 }
 
 .box-1 {
