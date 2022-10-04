@@ -163,15 +163,13 @@ body {
     color: #011B3D;
     opacity: 1;
 }
-.box-2 {
-    .sub-box2 {
-        width:50%;
-        @media only screen and (max-width: 600px) {
-            width:100%;
-        }
-         .left {
-             background-image:url(assets/col1.png);
-         }
+.box-2 .sub-box2 {
+    width:50%;
+    @media only screen and (max-width: 600px) {
+        width:100%;
     }
 }
+.left {
+     background-image:url(assets/col1.png);
+ }
 
