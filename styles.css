@@ -134,7 +134,6 @@ color: var(--unnamed-color-bbbbbb);
 .subheader-text {
     left: 41px;
     width: 50%;
-    height: 37px;
     font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-medium) var(--unnamed-font-size-25)/var(--unnamed-line-spacing-35) var(--unnamed-font-family-heebo);
     letter-spacing: var(--unnamed-character-spacing-0);
     text-align: left;
@@ -143,7 +142,7 @@ color: var(--unnamed-color-bbbbbb);
     color: #F9F9F9;
     opacity: 1;
     position: absolute;
-    bottom: 0;
+    bottom: 5;
     left: 0;
 }
 
