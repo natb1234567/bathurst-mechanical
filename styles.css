@@ -179,5 +179,11 @@ body {
  }
 .sub-box2a {
     font: normal normal bold 26px Barlow Condensed;
+    letter-spacing: 0px;
+    color: #011B3D;
+    opacity: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 }
 
