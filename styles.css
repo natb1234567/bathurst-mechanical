@@ -105,7 +105,6 @@ color: var(--unnamed-color-bbbbbb);
 }
 
 body {
-    background: #F2F7FF;
     margin:0px;
 }
 
@@ -165,6 +164,7 @@ body {
 }
 .box-2 {
     display: flex;
+    background: #F2F7FF;
 }
 .box-2 .sub-box2 {
     width:50%;
@@ -191,7 +191,7 @@ body {
         margin-right:20px;
     }
 }
-.sub-box2a {
+.heading {
     font: normal normal bold 26px Barlow Condensed;
     letter-spacing: 0px;
     color: #011B3D;
