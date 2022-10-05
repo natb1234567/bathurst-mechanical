@@ -169,6 +169,10 @@ body {
 .box-2 .sub-box2 {
     width:50%;
 }
+.sub-box2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 @media only screen and (max-width: 600px) {
     .box-2 .sub-box2 {
         width:100%;
@@ -182,8 +186,6 @@ body {
     letter-spacing: 0px;
     color: #011B3D;
     opacity: 1;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 .sub-box2b {
     display:flex;
