@@ -106,6 +106,7 @@ color: var(--unnamed-color-bbbbbb);
 
 body {
     margin:0px;
+    background: #F2F7FF;
 }
 
 
@@ -165,7 +166,6 @@ body {
 }
 .box-2 {
     display: flex;
-    background: #F2F7FF;
 }
 .box-2 .sub-box2 {
     width:50%;
@@ -241,5 +241,6 @@ body {
 }
 .box-3 {
     display:flex;
+    background:#FFFFFF;
 }
 
