@@ -189,14 +189,17 @@ body {
     display:flex;
 }
 .icon-container {
-    width:50%;
+    width:20%;
+    display:flex;
 }
 .orange-icon {
     background:#F5EAE2;
     border-radius:50%;
-    width:20px;
+    width:75px;
+    height:75px;
+    justify-content: center;
 }
 .sub-box2b-text {
-    width:50%;
+    width:80%;
 }
 
