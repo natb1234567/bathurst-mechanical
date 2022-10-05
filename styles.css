@@ -188,8 +188,13 @@ body {
 .sub-box2b {
     display:flex;
 }
-.orange-icon {
+.icon-container {
     width:50%;
+}
+.orange-icon {
+    background:#F5EAE2;
+    border-radius:50%;
+    width:20px;
 }
 .sub-box2b-text {
     width:50%;
