@@ -185,5 +185,13 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
+.sub-box2b {
+    display:flex;
+}
+.orange-icon {
+    width:50%;
+}
+.sub-box2b-text {
+    width:50%;
 }
 
