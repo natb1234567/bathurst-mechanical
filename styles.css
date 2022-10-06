@@ -296,4 +296,12 @@ body {
 .stripe-right {
     width:33%
 }
+.white-heading {
+    color:#FFFFFF;
+    font: normal normal bold 26px Barlow Condensed;
+}
+.white-subheading {
+    color:#B9C7D9;
+    font: normal normal normal 16px Heebo;
+}
 
