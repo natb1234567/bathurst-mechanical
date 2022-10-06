@@ -305,6 +305,12 @@ body {
     position: absolute;
     left: calc(50% - 112.5px);
     margin-top: 15px;
+    margin-left: auto;
+}
+.string-middle-inner img {
+    max-width: 190px;
+    margin-left: 16px;
+    margin-top: 16px;
 }
 .stripe-right {
     width: calc(33% - 40px);
