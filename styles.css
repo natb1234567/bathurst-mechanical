@@ -172,6 +172,8 @@ body {
 }
 .sub-box2-left {
     width:50%;
+    min-width:50%;
+    max-width:50%;
     margin-left: 60px;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -179,6 +181,8 @@ body {
 }
 .sub-box2-right {
     width:50%;
+    min-width:50%;
+    max-width:50%;
     margin-left: 20px;
     margin-right: 60px;
     margin-bottom: 20px;
