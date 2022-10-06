@@ -294,7 +294,8 @@ body {
     width:33%;
 }
 .stripe-right {
-    width:33%
+    width: calc(33% - 40px);
+    margin-left: 40px;
 }
 .white-heading {
     color:#FFFFFF;
