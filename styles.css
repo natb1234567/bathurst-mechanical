@@ -266,4 +266,7 @@ body {
 .center {
     text-align:center;
 }
+.box-4 {
+    background: linear-gradient(110deg, color1 red, color2 blue);
+}
 
