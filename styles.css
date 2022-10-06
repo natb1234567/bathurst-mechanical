@@ -255,7 +255,9 @@ body {
     flex: 30%;
 }
 .box .circle {
-    radius:50%;
+    border-radius:50%;
+    height:100px;
+    width:100px;
 }
 .boxes {
     display:flex;
