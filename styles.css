@@ -304,11 +304,11 @@ body {
     width:220px;
     height:220px;
     position: absolute;
-    left: calc(50% - 112.5px);
+    left: calc(50% - 135px);
     margin-top: 15px;
     margin-left: auto;
 }
-.string-middle-inner img {
+.stripe-middle-inner img {
     max-width: 190px;
     margin-left: 16px;
     margin-top: 16px;
