@@ -179,7 +179,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 .sub-box2-right {
     width:calc(50% - 80px);
