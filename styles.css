@@ -249,6 +249,7 @@ body {
 }
 .box-3 {
     background:#FFFFFF;
+    padding-top: 20px;
 }
 .box {
     background: #F2F7FF;
@@ -261,6 +262,8 @@ body {
     width:100px;
     background-size: cover;
     background-position: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 .boxes {
     display:flex;
