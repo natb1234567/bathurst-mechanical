@@ -108,8 +108,6 @@ body {
     margin:0px;
     background: #F2F7FF;
 }
-
-
 .header {
     background-image: url(assets/header.png);
     background-size: cover;
@@ -119,6 +117,7 @@ body {
     height: 75%;
     opacity: 1;
     position:relative;
+    background-position: center;
 }
 
 .header-text {
@@ -190,10 +189,13 @@ body {
     margin-bottom: 20px;
 }
 @media only screen and (max-width: 600px) {
-    .box-2 .sub-box2-right, .box-2 .sub-box2-left {
+    .box-2 .sub-box2-right{
         width:100%;
     }
-    .sub-box2-left, .sub-box2-right {
+    .sun-box2-left {
+        display:none;
+    }
+    .sub-box2-right {
         margin-left:20px;
         margin-right:20px;
     }
@@ -271,12 +273,14 @@ body {
 .boxes {
     display:flex;
     flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .center {
     text-align:center;
 }
 .box-4 {
-    background: linear-gradient(70deg, #BBBBBB 60%, #011B3D 60%);
+    background: linear-gradient(70deg, #BBBBBB 50%, #011B3D 50%);
     display:flex;
     margin-top: 40px;
 }
