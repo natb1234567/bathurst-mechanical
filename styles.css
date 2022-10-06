@@ -278,6 +278,7 @@ body {
 .box-4 {
     background: linear-gradient(70deg, #BBBBBB 60%, #011B3D 60%);
     display:flex;
+    margin-top: 40px;
 }
 .stripe-left {
     width:33%;
@@ -286,6 +287,8 @@ body {
     border-radius:50%;
     background: #FF7212;
     opacity: 0.23;
+    width:250px;
+    height:250px;
 }
 .stripe-middle-inner {
     border-radius:50%;
