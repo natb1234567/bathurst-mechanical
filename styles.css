@@ -252,11 +252,13 @@ body {
 .box {
     background: #F2F7FF;
     margin:10px;
+    flex: 30%;
 }
 .box .circle {
     radius:50%;
 }
 .boxes {
     display:flex;
+    flex-wrap: wrap;
 }
 
