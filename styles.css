@@ -276,5 +276,23 @@ body {
 }
 .box-4 {
     background: linear-gradient(70deg, #BBBBBB 60%, #011B3D 60%);
+    display:flex;
+}
+.stripe-left {
+    width:33%;
+}
+.stripe-middle {
+    border-radius:50%;
+    background: #FF7212;
+    opacity: 0.23;
+}
+.stripe-middle-inner {
+    border-radius:50%;
+    background: #FF7212;
+    opacity: 1.0;
+    width:33%;
+}
+.stripe-right {
+    width:33%
 }
 
