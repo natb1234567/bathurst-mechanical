@@ -293,6 +293,7 @@ body {
     opacity: 0.23;
     width:250px;
     height:250px;
+    position: relative;
 }
 .stripe-middle-inner {
     border-radius:50%;
@@ -301,10 +302,13 @@ body {
     width:33%;
     width:220px;
     height:220px;
+    position: absolute;
+    left: calc(50% - 112.5px);
+    margin-top: 15px;
 }
 .stripe-right {
     width: calc(33% - 40px);
-    margin-left: 40px;
+    margin: auto;
 }
 .white-heading {
     color:#FFFFFF;
