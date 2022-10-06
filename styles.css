@@ -233,6 +233,7 @@ body {
     letter-spacing: 0px;
     color: #011B3D;
     opacity: 1;
+    margin-left:10px;
 }
 .sub-box2b-text-text {
     text-align: left;
@@ -240,6 +241,7 @@ body {
     letter-spacing: 0px;
     color: #5C5C5C;
     opacity: 1;
+    margin-left:10px;
 }
 .box-3 {
     background:#FFFFFF;
