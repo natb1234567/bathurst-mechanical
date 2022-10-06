@@ -295,6 +295,8 @@ body {
     width:250px;
     height:250px;
     position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .stripe-middle-inner {
     border-radius:50%;
@@ -305,7 +307,7 @@ body {
     height:220px;
     position: absolute;
     left: calc(50% - 135px);
-    margin-top: 15px;
+    margin-top: 65px;
     margin-left: auto;
 }
 .stripe-middle-inner img {
@@ -320,6 +322,7 @@ body {
 .white-heading {
     color:#FFFFFF;
     font: normal normal bold 26px Barlow Condensed;
+    margin-bottom: 20px;
 }
 .white-subheading {
     color:#B9C7D9;
