@@ -328,4 +328,19 @@ body {
     color:#B9C7D9;
     font: normal normal normal 16px Heebo;
 }
+.orange-text {
+    font: normal normal medium 14px Heebo;
+    color: #FF7212;
+}
+.dark-box {
+    position:relative;
+}
+.triangle-up {
+    position:absolute;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid green;
+    border-top: 20px solid transparent;
+    display: inline-block;
+}
 
