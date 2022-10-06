@@ -255,6 +255,7 @@ body {
     background: #F2F7FF;
     margin:10px;
     flex: 30%;
+    min-height: 200px;
 }
 .box .circle {
     border-radius:50%;
