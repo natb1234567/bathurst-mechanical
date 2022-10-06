@@ -334,13 +334,18 @@ body {
 }
 .dark-box {
     position:relative;
+    margin: 10px;
+    flex: 30%;
+    min-height: 200px;
 }
 .triangle-up {
     position:absolute;
-    border-left: 20px solid transparent;
-    border-right: 20px solid transparent;
-    border-bottom: 20px solid green;
-    border-top: 20px solid transparent;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid green;
+    border-top: 100px solid transparent;
     display: inline-block;
+    bottom: 0;
+    left: 0;
 }
 
