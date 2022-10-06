@@ -225,7 +225,7 @@ body {
 .sub-box2b-text {
     width:80%;
 }
-.sub-box2b-text-heading {
+.small-heading {
     text-align: left;
     font: normal normal bold 16px Barlow Condensed;
     letter-spacing: 0px;
@@ -242,5 +242,12 @@ body {
 .box-3 {
     display:flex;
     background:#FFFFFF;
+}
+.box {
+    background: #F2F7FF;
+    margin:10px;
+}
+.box .circle {
+    radius:50%;
 }
 
