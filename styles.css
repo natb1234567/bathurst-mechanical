@@ -261,4 +261,7 @@ body {
     display:flex;
     flex-wrap: wrap;
 }
+.center {
+    text-align:center;
+}
 
