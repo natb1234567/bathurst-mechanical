@@ -173,10 +173,14 @@ body {
 .sub-box2-left {
     width:calc(50% - 80px);
     min-width:calc(50% - 80px);
-    padding-left: 60px;
-    padding-right: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
     margin-bottom: 20px;
     background:url(assets/col1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
 }
 .sub-box2-right {
     width:calc(50% - 80px);
