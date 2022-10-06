@@ -295,6 +295,8 @@ body {
     background: #FF7212;
     opacity: 1.0;
     width:33%;
+    width:220px;
+    height:220px;
 }
 .stripe-right {
     width: calc(33% - 40px);
