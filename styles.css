@@ -284,6 +284,7 @@ body {
     background: linear-gradient(70deg, #BBBBBB 50%, #011B3D 50%);
     display:flex;
     margin-top: 40px;
+    height: 300px;
 }
 .stripe-middle {
     border-radius:50%;
@@ -294,7 +295,7 @@ body {
     position: absolute;
     left:50%;
     transform: translateX(-50%);
-    margin-top: 50px;
+    margin-top: 35px;
 }
 .stripe-middle-inner {
     border-radius:50%;
