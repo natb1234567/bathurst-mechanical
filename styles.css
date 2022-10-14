@@ -315,6 +315,8 @@ body {
 .stripe-right {
     width: calc(33% - 40px);
     margin: auto;
+    right: 10;
+    padding-top: 100px;
 }
 .white-heading {
     color:#FFFFFF;
