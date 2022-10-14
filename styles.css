@@ -318,6 +318,7 @@ body {
     margin: auto;
     right: 10;
     padding-top: 100px;
+    position:absolute;
 }
 .white-heading {
     color:#FFFFFF;
